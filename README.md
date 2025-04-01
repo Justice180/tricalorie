@@ -2,6 +2,7 @@ Calorie Tracker App
 A simple calorie tracking app that allows users to track their food intake and monitor their total calorie consumption. The app supports adding, updating, and deleting food items, and calculates the total calories based on the user's entries.
 
 Features
+
 Add Food Item: Users can add food items with a name and calorie value.
 
 Edit Food Item: Users can edit the name and calorie value of previously added items.
@@ -22,18 +23,23 @@ JavaScript: Functionality of the app including item management and calorie calcu
 Font Awesome: Icons for edit and delete actions.
 
 Setup and Usage
+
 Clone the repository:
 
 git clone https://github.com/yourusername/calorie-tracker.git
+
 Navigate into the project folder:
 
 cd calorie-tracker
+
 Open the project in your preferred code editor (VS Code, Sublime, etc.):
 
 code .
+
 Open the index.html file in your browser to see the app in action.
 
 File Structure
+
 index.html: The main HTML file for the app.
 
 style.css: The CSS file for styling the app.
