@@ -51,6 +51,7 @@ App Controller
 The App module integrates the ItemCtrl and UICtrl modules. It initializes the app, loads event listeners, and handles form submissions, item edits, and item deletions.
 
 Usage Instructions
+
 Add an Item: Enter the name of the food and its calorie value, then click the "Add Item" button.
 
 Edit an Item: Click the pencil icon next to an item, update its name or calorie value, and click the "Update" button.
